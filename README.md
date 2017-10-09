@@ -1,4 +1,4 @@
-CSCI 3415 – Principles of Programming Languages
+**CSCI 3415 – Principles of Programming Languages**
 
 Programming Assignment 2 – Java
 
