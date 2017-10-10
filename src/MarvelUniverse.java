@@ -44,7 +44,9 @@ public class MarvelUniverse {
             
 
 
-        } catch (IOException e) { /* TODO */}
+        } catch (IOException e) { System.out.println("File not found"); }     // file not found
+        //catch (IOException e) { e.printStackTrace();     // could use this instead to print out the error
+
 
     }
 }
